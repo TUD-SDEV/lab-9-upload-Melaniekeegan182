@@ -1,0 +1,46 @@
+[
+    {
+        "model": "books.book",
+        "pk": "29f071d9-c84d-495c-a084-a913c866bd53",
+        "fields": {
+            "title": "A Brief History of Time",
+            "author": "Stephen Hawking",
+            "price": "30.00",
+            "date_publication": "1988-01-01",
+            "cover": ""
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "8d609ec5-789d-4ce4-b678-564a9de021f6",
+        "fields": {
+            "title": "Python Cookbook: Recipes for Mastering Python",
+            "author": "Yur Man",
+            "price": "40.00",
+            "date_publication": "2004-05-07",
+            "cover": "covers/PythonCookbook.jpg"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "ea866e5c-7cba-415f-ad6a-f42175f3fe63",
+        "fields": {
+            "title": "Lightweight Django",
+            "author": "Edd Worrbler",
+            "price": "10.00",
+            "date_publication": "2021-06-04",
+            "cover": ""
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "f3971c56-3669-48bc-8e27-427e14492b2b",
+        "fields": {
+            "title": "Django Unleashed",
+            "author": "M Perry",
+            "price": "30.00",
+            "date_publication": "2002-02-04",
+            "cover": ""
+        }
+    }
+]
